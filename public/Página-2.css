@@ -1,0 +1,355 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1992px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 0;
+  margin-bottom: 50px;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 1942px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-1 {
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  padding: 0;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 157px;
+  height: 115px;
+  transform-origin: center center 0px;
+  transform: scaleY(-1);
+  margin: 0 0 0 auto;
+}
+
+.u-section-1 .u-shape-2 {
+  width: 117px;
+  height: 70px;
+  transform-origin: center center 0px;
+  transform: scaleY(-1);
+  margin: -115px 115px 0 auto;
+}
+
+.u-section-1 .u-shape-3 {
+  width: 98px;
+  height: 54px;
+  transform-origin: center center 0px;
+  transform: scaleY(-1);
+  margin: -70px 199px 0 auto;
+}
+
+.u-section-1 .u-shape-4 {
+  width: 157px;
+  height: 115px;
+  transform-origin: center center 0px;
+  transform: scaleY(-1);
+  margin: -54px 263px 0 auto;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 2.25rem;
+  width: 447px;
+  font-weight: bold;
+  margin: -66px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 1599px;
+  width: 1056px;
+  margin: 32px auto 0;
+}
+
+.u-section-1 .u-form-group-1 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-input-1 {
+  font-size: 1.25rem;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+}
+
+.u-section-1 .u-form-group-2 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-input-2 {
+  font-size: 1.25rem;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+}
+
+.u-section-1 .u-form-group-3 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-input-3 {
+  font-size: 1.25rem;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+}
+
+.u-section-1 .u-form-group-4 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-input-4 {
+  font-size: 1.25rem;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+}
+
+.u-section-1 .u-form-group-5 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-input-5 {
+  font-size: 1.25rem;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+}
+
+.u-section-1 .u-line-1 {
+  height: 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin-left: 0;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+.u-section-1 .u-form-group-8 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-input-6 {
+  font-size: 1.25rem;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+}
+
+.u-section-1 .u-form-group-9 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-input-7 {
+  font-size: 1.25rem;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+}
+
+.u-section-1 .u-form-group-10 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-input-8 {
+  font-size: 1.25rem;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+}
+
+.u-section-1 .u-form-group-11 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-12 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-input-9 {
+  font-size: 1.25rem;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+}
+
+.u-section-1 .u-form-group-13 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-input-10 {
+  font-size: 1.25rem;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  width: 100%;
+  text-transform: uppercase;
+  font-size: 1.25rem;
+  letter-spacing: 3px;
+  background-image: linear-gradient(white, #666666);
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  padding: 13px 30px 14px;
+}
+
+.u-section-1 .u-btn-2 {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  background-image: linear-gradient(#fceced, #a6bdc1);
+  margin: 66px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1861px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-bottom: 34px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    --animation-custom_in-translate_x: -300px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 1;
+    min-height: 1827px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 7px;
+    padding-right: 7px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -61px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 859px;
+    margin-top: 27px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: 19px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1815px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-bottom: 35px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 1780px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -53px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 658px;
+    margin-top: 19px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1927px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-bottom: 47px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 1880px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-right: auto;
+    margin-left: 323px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    margin-right: auto;
+    margin-left: 248px;
+  }
+
+  .u-section-1 .u-shape-3 {
+    margin-right: auto;
+    margin-left: 183px;
+  }
+
+  .u-section-1 .u-shape-4 {
+    margin-right: auto;
+    margin-left: 60px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 0;
+    margin-left: 47px;
+    margin-right: 47px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 496px;
+    margin-top: 16px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1910px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-bottom: 40px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 1870px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-right: 0;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-shape-2 {
+    margin-right: 103px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-shape-3 {
+    margin-top: -48px;
+    margin-left: 85px;
+  }
+
+  .u-section-1 .u-shape-4 {
+    margin-top: -76px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 6px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 296px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: 16px;
+  }
+}
